@@ -4,9 +4,11 @@ I'm _Iordanidis Iordanis_, an academic student in pursue of knowledge. I hold a 
 
 ### A few things about me! 
 
-- I studied at University of Western Macedonia in Kozani between the years 2017 and 2021.
+- I studied electrical engineering as my BSc at University of Western Macedonia in Kozani between the years 2017 and 2021.
 - I then followed up with my mandatory military service in the Hellenic Army for the entire year of 2022.
-- Currently I'm studying in two different Universities for two different and equally interesting subjects.
+- Currently I'm studying for my MSc in:
+  - Unmanned autonomous and remote controlled systems at University of West Attica.
+  - Cybersecurity at International Hellenic University.
 - I’m also working on **[LGK Constructions and Projects](https://www.lgkcorps.com/)**
 
 ### How to contact me:
