@@ -50,5 +50,3 @@ I'm _Iordanidis Iordanis_, an academic student in pursue of knowledge. I hold a 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iordanisiordanidis&show_icons=true&locale=en&layout=compact" alt="iordanisiordanidis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iordanisiordanidis&show_icons=true&theme=dark&locale=en" alt="iordanisiordanidis" /></p>
