@@ -1,15 +1,16 @@
 # Hello everyone! 👋
 
-I'm _Iordanidis Iordanis_, an academic student in pursue of knowledge. I hold a Bachelor of Science degree in _Electrical Engineering_ from the esteemed University of Western Macedonia, Greece. Additionally, I am currently studying for my Master of Science degree in _Cybersecurity_ from the International Hellenic University, Greece and for a second Master of Science degree in _Unmanned Autonomous and Remote Controlled Systems_ from University of West Attica, Greece.
+I'm _Iordanidis Iordanis_, a Tech Enthusiast in pursue of knowledge. I hold a Bachelor degree in _Electrical Engineering_ from the esteemed University of Western Macedonia, Greece, a Master degree in _Cybersecurity_ from the International Hellenic University, Greece and a Master degree in _Unmanned Autonomous and Remote Controlled Systems_ from University of West Attica, Greece.
 
 ### A few things about me! 
 
 - I studied electrical engineering as my BSc at University of Western Macedonia in Kozani between the years 2017 and 2021.
 - I then followed up with my mandatory military service in the Hellenic Army for the entire year of 2022.
-- Currently I'm studying for my MSc in:
-  - Unmanned autonomous and remote controlled systems at University of West Attica.
-  - Cybersecurity at International Hellenic University.
-- I’m also working on **[LGK Constructions and Projects](https://www.lgkcorps.com/)**
+- In Q4 of 2022, I made the bold choice to apply and soon after join on two Master Courses that I found fascinating at the time. (Both accepted my application!)
+- Fast forward two years later, in Q2 of 2024 I got my MSc in Cybersecurity.
+- And then, in Q4 of the same year my MSc in Unmanned Autonomous and Remote Controlled Systems.
+- As of now, I am still practicing my first degree as a Freelance Electrician while continuing my studies through certifications in the realm of Cybersecurity.
+- I’m also external partner at **[LGK Constructions and Projects](https://www.lgkcorps.com/)**, assisting primarily on Home Automations and Networking Projects.
 
 ### How to contact me:
 
